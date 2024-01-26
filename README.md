@@ -20,3 +20,7 @@ A ML project for the introduction to CSE381:Introduction to Machine Learning cou
 
 _To Run The code you need to install Jupyter Notebook,
 you need also to download the kaggle's dataset_.
+
+## Documentation
+
+For detailed information about the project,please refer to our [Documentation](https://drive.google.com/file/d/1RVxQ4BKlh2j4qmnE1BV-DOyyJJf5olCQ/view?usp=drive_link).
